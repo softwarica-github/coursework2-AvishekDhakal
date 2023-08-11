@@ -1,0 +1,3 @@
+The view is the main file for running the program.
+
+The dictionary attached with the program may not crack all the hashes like in video due to reduced number of words in it for reducing file size.
